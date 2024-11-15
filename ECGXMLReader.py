@@ -3,7 +3,6 @@ import csv
 import array
 import base64
 import xmltodict
-
 import numpy as np
 
 __author__ = "Will Hewitt"
